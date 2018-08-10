@@ -3,14 +3,14 @@
 **2018 - 07 - 09 Start !**
 
 <h4>Email : mdnbo1@naver.com</h4>
-<h4>2018-07-11 현재 3일차 진행중! </h4>
+<h4>2018-08-97 현재 22일차 진행중! </h4>
 
 ---
 :memo: **나의 하루 개발일지**
 
 - [1달차 바로가기](#1) ( Java SE, Database, JDBC )
-- [2주차 바로가기](#2)
-- [3주차 바로가기](#3)
+- [2달차 바로가기](#2)
+- [3달차 바로가기](#3)
 
 
 ---
@@ -18,17 +18,26 @@
 :memo: **개발 일지 기록** 
 ---
 
-> <h3 id=1>1주차(Java SE)</h3>
+> <h3 id=1>1Month(Java SE)</h3>
 - [1일차(2018-07-09)](http://cherwoo.tistory.com/113)
 - [2일차(2018-07-10)](http://cherwoo.tistory.com/114)
 - [3일차(2018-07-11)](http://cherwoo.tistory.com/115)
 - [4일차(2018-07-12)](http://cherwoo.tistory.com/116)
 - [5일차(2018-07-13)](http://cherwoo.tistory.com/117)
-> <h3>2주차(Java SE)</h3>
-- [6일차(2018-07-16)](http://cherwoo.tistory.com/113)
-- [7일차(2018-07-17)](http://cherwoo.tistory.com/113)
+- [6일차(2018-07-16)](http://cherwoo.tistory.com/120?category=678619)
+- [7일차(2018-07-17)](http://cherwoo.tistory.com/123?category=678619)
 - [8일차(2018-07-18)](http://cherwoo.tistory.com/113)
 - [9일차(2018-07-19)](http://cherwoo.tistory.com/113)
 - [10일차(2018-07-20)](http://cherwoo.tistory.com/113)
+- [11일차(2018-07-16)](http://cherwoo.tistory.com/113)
+- [12일차(2018-07-17)](http://cherwoo.tistory.com/113)
+- [13일차(2018-07-18)](http://cherwoo.tistory.com/113)
+- [14일차(2018-07-19)](http://cherwoo.tistory.com/113)
+- [15일차(2018-07-20)](http://cherwoo.tistory.com/113)
+- [16일차(2018-07-16)](http://cherwoo.tistory.com/113)
+- [17일차(2018-07-17)](http://cherwoo.tistory.com/113)
+- [18일차(2018-07-18)](http://cherwoo.tistory.com/113)
+- [19일차(2018-07-19)](http://cherwoo.tistory.com/113)
+- [20일차(2018-07-20)](http://cherwoo.tistory.com/113)
 
 
