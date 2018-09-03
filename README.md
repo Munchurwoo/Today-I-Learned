@@ -8,8 +8,8 @@
 ---
 :memo: **나의 하루 개발일지**
 
-- [1달차 바로가기](#1) ( Java SE, Database, JDBC )
-- [2달차 바로가기](#2)
+- [Java SE 바로가기](#1)
+- [Database, JDBC 바로가기](#2)
 - [3달차 바로가기](#3)
 
 
@@ -18,7 +18,7 @@
 :memo: **개발 일지 기록** 
 ---
 
-> <h3 id=1>1Month(Java SE)</h3>
+> <h3 id=1>Java SE</h3>
 - [1일차(2018-07-10)](http://cherwoo.tistory.com/113)
 - [2일차(2018-07-11)](http://cherwoo.tistory.com/114)
 - [3일차(2018-07-12)](http://cherwoo.tistory.com/115)
@@ -28,14 +28,10 @@
 - [7일차(2018-07-18)](http://cherwoo.tistory.com/123?category=678619)
 - [8일차(2018-07-19)](http://cherwoo.tistory.com/129)
 - [9일차(2018-07-20)](http://cherwoo.tistory.com/130)
-> JSP&SERVLET, JDBC(ORACLE)
-- 10일차(2018-07-21)~20일차(2018-08-05)
-- [진행 SourceCode 보기](https://github.com/Munchurwoo/Java_JspServlet_Spring_DB_SourceCode/tree/master/Java_Web_SourceCode/web-workspace2)
->Model1, 2, JDBC 
-- [21일차]()
-- [22일차]()
-- [23일차]()
+> JSP&SERVLET,Model1, 2, JDBC(ORACLE)
+- [10일차(2018-07-21)~23일차(2018-08-08)](https://github.com/Munchurwoo/Java_JspServlet_Spring_DB_SourceCode/tree/master/Java_Web_SourceCode/web-workspace2)
 - [24일차(Servlet & JSP Singleton pattern)](http://cherwoo.tistory.com/128)
 - [25일차([jsp&servlet] Front Controller Design Pattern,HandlerMapping)](http://cherwoo.tistory.com/131)
 - [26일차(forward, redirect, Session, Cookie
 )](http://cherwoo.tistory.com/132)
+
