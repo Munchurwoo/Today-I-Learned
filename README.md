@@ -1,4 +1,4 @@
-> 안녕하세요. 전문연구요원 병역특례 IT 취업을  준비하고 있는 석사 졸업생입니다. <br>
+﻿> 안녕하세요. 전문연구요원 병역특례 IT 취업을  준비하고 있는 석사 졸업생입니다. <br>
 취업에 앞서 개발 역량을 스스로 점검하고 부족한 부분을 채우고자 개발일지를 작성하게 됬습니다.<br>
 **2018 - 07 - 09 Start !**
 
@@ -34,4 +34,5 @@
 - [25일차([jsp&servlet] Front Controller Design Pattern,HandlerMapping)](http://cherwoo.tistory.com/131)
 - [26일차(forward, redirect, Session, Cookie
 )](http://cherwoo.tistory.com/132)
+- [27일차(JSP&SERVLET 정리[1])](http://cherwoo.tistory.com/135)
 
