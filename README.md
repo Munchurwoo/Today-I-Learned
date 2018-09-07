@@ -29,7 +29,7 @@
 - [8일차(2018-07-19)](http://cherwoo.tistory.com/129)
 - [9일차(2018-07-20)](http://cherwoo.tistory.com/130)
 > JSP&SERVLET,Model1, 2, JDBC(ORACLE)
-- [10일차(2018-07-21)~23일차(2018-08-08)](https://github.com/Munchurwoo/Java_JspServlet_Spring_DB_SourceCode/tree/master/Java_Web_SourceCode/web-workspace2)
+- [10일차(2018-07-21)~23일차(2018-08-08)](https://github.com/Munchurwoo/Java_JspServlet_Spring_DB_SourceCode/tree/master/Java_Web_SourceCode)
 - [24일차(Servlet & JSP Singleton pattern)](http://cherwoo.tistory.com/128)
 - [25일차([jsp&servlet] Front Controller Design Pattern,HandlerMapping)](http://cherwoo.tistory.com/131)
 - [26일차(forward, redirect, Session, Cookie
